@@ -1,11 +1,12 @@
 {
-  "version": "1.0.2",
-  "buildNumber": 3,
+  "version": "1.0.3",
+  "buildNumber": 4,
   "downloadUrl": "https://github.com/Yokij8/012/releases/download/1.0.2/animatoo.V1.0.2.apk",
-  "forceUpdate": true,
-  "message": "تحديث جديد متوفر !"
+  "forceUpdate": false,
+  "message": "ليس هناك تحديث فعلي نحن نختبر فقط ميزة جديدة شكرا لتفهمكم"
 
 }
+
 
 
 
