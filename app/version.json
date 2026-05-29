@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
+  "version": "1.5.0",
   "buildNumber": 4,
-  "downloadUrl": "https://github.com/Yokij8/012/releases/download/1.0.2/animatoo.apk",
-  "fileSize": "54 MB",
+  "downloadUrl": "https://cdn.animatoo.app/shinro/win-animatoo-1.5.0.msi",
+  "fileSize": "94 MB",
   "forceUpdate": true,
   "message": "..."
 }
